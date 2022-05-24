@@ -1,1 +1,1 @@
-# bangkit-capstone
+# bangkit-capstone-ocr
